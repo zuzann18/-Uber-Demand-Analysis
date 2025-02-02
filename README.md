@@ -27,31 +27,6 @@ The dataset consists of various features related to time, weather, and demand. T
 
 ---
 
-## 📓 Jupyter Notebook: Uber Demand Analysis
-
-### 📝 Notebook Overview
-The **Uber_Case_Study-1.ipynb** Jupyter Notebook provides a detailed **exploratory data analysis (EDA)** of Uber ride demand, highlighting the impact of various factors such as weather conditions and holidays.
-
-### 📑 Notebook Sections
-1️⃣ **Introduction**  
-   - Overview of the dataset and project objectives.  
-
-2️⃣ **Data Loading & Preprocessing**  
-   - Importing libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`).  
-   - Handling missing values and data inconsistencies.  
-
-3️⃣ **Exploratory Data Analysis (EDA)**  
-   - **Univariate Analysis:** Individual variable distributions.  
-   - **Bivariate Analysis:** Relationships between factors affecting demand.  
-   - **Time-Series Analysis:** Identifying trends over time.  
-
-4️⃣ **Data Visualization**  
-   - Line plots for ride demand trends.  
-   - Heatmaps for variable correlations.  
-   - Bar charts for demand across boroughs and holidays.  
-
----
-
 ## 📊 Key Findings
 
 ### 1️⃣ Influence of Weather
