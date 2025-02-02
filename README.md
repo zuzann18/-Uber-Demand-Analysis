@@ -9,6 +9,8 @@ This project analyzes Uber ride demand in New York City, identifying key factors
 - Provide recommendations for Uber management to capitalize on demand fluctuations.
 
 ## Dataset Description
+The main dataset initially contained over 10 million observations aggregated per hour and borough. After merging with additional datasets, it resulted in **29,101 observations across 13 variables**, including:
+
 The dataset consists of various features related to time, weather, and demand. The key columns include:
 
 - **pickup_dt**: Date and time of the pick-up.
