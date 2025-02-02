@@ -59,16 +59,20 @@ The **Uber_Case_Study-1.ipynb** Jupyter Notebook provides a detailed **explorato
 - **Temperature** has a significant positive correlation with ride demand. **Higher temperatures lead to more Uber rides.**
 - **Precipitation (rain & snow)** negatively impacts pickups. **Bad weather reduces demand due to reduced mobility.**
 - **Visibility** is also a factor—low visibility conditions reduce demand.
+  ![image](https://github.com/user-attachments/assets/bf283d5a-dde8-4fe9-8843-9c4cdf9dd501)
+
 
 ### 2️⃣ Effect of Holidays & Time of Day
 - **Holidays show a clear increase in Uber usage**, likely due to increased travel and reduced availability of public transport.
 - **Peak demand is observed in the evening hours**, especially between 5 PM - 10 PM.
 - **Weekends** see a significant **increase in demand** compared to weekdays.
+![image](https://github.com/user-attachments/assets/618a2695-fb50-499d-9bd5-88528a1ba66c)
 
 ### 3️⃣ Borough-Wise Demand
 - **Manhattan has the highest Uber pickup volume.** This is expected due to its high population density and business activity.
 - **Brooklyn and Queens show moderate demand**, but it fluctuates more with weather conditions.
 - **The Bronx and Staten Island have lower overall demand.**
+![image](https://github.com/user-attachments/assets/e6d43dff-ba32-4d3a-b0b9-5bd2ed1b2018)
 
 ---
 
