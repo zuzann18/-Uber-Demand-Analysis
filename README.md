@@ -73,7 +73,6 @@ The **Uber_Case_Study-1.ipynb** Jupyter Notebook provides a detailed **explorato
 - **The Bronx and Staten Island have lower overall demand.**
 ![image](https://github.com/user-attachments/assets/e6d43dff-ba32-4d3a-b0b9-5bd2ed1b2018)
 
-
 In the context of the data used in the Uber analysis, **borough** refers to the five main districts of New York City:
 
 - **Manhattan**
@@ -89,6 +88,14 @@ For example:
 - **Brooklyn and Queens** are significant for commuters traveling to work.
 - **The Bronx and Staten Island** have lower ride volumes but may experience demand spikes during specific hours or weather conditions.
 
+### Rolling Average for Trend Analysis
+![image](https://github.com/user-attachments/assets/2a359ad0-3313-47e8-a1d8-a873b53feccc)
+
+### Seasonal Decomposition
+
+  ![image](https://github.com/user-attachments/assets/c6fe7123-fac8-40f1-b3c0-dd85b4be2241)
+
+
 ### Monthly Uber Pickups by Day Type
 
 - **Working Days:**  
@@ -99,9 +106,11 @@ For example:
   - The trend is similar to working days but with generally lower total pickups.  
   - This is expected as there are fewer non-working days in a month.  
 
-## **Key Insights:**
-**Uber demand is growing over time, suggesting a positive business trend.**  
- **While the overall trend is upward, slight variations exist between working and non-working days in certain months.**  
+### Key Insights from Time Series Analysis
+- **Weekly Seasonality**: Uber demand fluctuates based on weekly cycles, with higher demand on weekends.
+- **Trend Growth**: There is a clear upward trend in ride demand over time.
+- **Weather Effects**: Rain and snow events cause temporary dips in demand.
+- **Holiday Spikes**: Demand significantly increases during holidays.
  
 
 
