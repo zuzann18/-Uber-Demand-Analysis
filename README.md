@@ -129,9 +129,15 @@ Applying **data-driven strategies** can lead to increased efficiency, better cus
 
 ---
 
-## 🚀 How to Use the Project
 
-### 📥 Clone the Repository
+## Data Source
+
+This dataset originates from **Kaggle**: [NYC Uber Pickups with Weather and Holidays](https://www.kaggle.com/datasets/yannisp/uber-pickups-enriched?utm_source=chatgpt.com).
+
+
+##  How to Use the Project
+
+### Clone the Repository
 ```sh
 git clone https://github.com/your-username/uber-demand-analysis.git
 cd uber-demand-analysis
