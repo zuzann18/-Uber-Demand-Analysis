@@ -5,7 +5,6 @@
 This project analyzes Uber ride demand in New York City, identifying key factors influencing ride pickups. The goal is to extract actionable insights that can help Uber optimize its operations based on weather conditions, holidays, and location-based trends.
 
 ## Objectives
-- Identify variables influencing Uber ride pickups.
 - Determine the most significant factors affecting demand.
 - Provide recommendations for Uber management to capitalize on demand fluctuations.
 
