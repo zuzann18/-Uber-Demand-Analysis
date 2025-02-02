@@ -74,6 +74,22 @@ The **Uber_Case_Study-1.ipynb** Jupyter Notebook provides a detailed **explorato
 - **The Bronx and Staten Island have lower overall demand.**
 ![image](https://github.com/user-attachments/assets/e6d43dff-ba32-4d3a-b0b9-5bd2ed1b2018)
 
+
+In the context of the data used in the Uber analysis, **borough** refers to the five main districts of New York City:
+
+- **Manhattan**
+- **Brooklyn**
+- **Queens**
+- **The Bronx**
+- **Staten Island**
+
+These boroughs are crucial for analyzing Uber ride demand, as each has distinct travel patterns, traffic conditions, and transportation needs.
+
+For example:
+- **Manhattan** has the highest number of rides due to high business and tourist activity.
+- **Brooklyn and Queens** are significant for commuters traveling to work.
+- **The Bronx and Staten Island** have lower ride volumes but may experience demand spikes during specific hours or weather conditions.
+
 ---
 
 ## 📌 Recommendations
