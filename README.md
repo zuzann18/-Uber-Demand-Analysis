@@ -88,9 +88,6 @@ For example:
 - **Brooklyn and Queens** are significant for commuters traveling to work.
 - **The Bronx and Staten Island** have lower ride volumes but may experience demand spikes during specific hours or weather conditions.
 
-### Rolling Average for Trend Analysis
-![image](https://github.com/user-attachments/assets/2a359ad0-3313-47e8-a1d8-a873b53feccc)
-
 ### Seasonal Decomposition
 
   ![image](https://github.com/user-attachments/assets/c6fe7123-fac8-40f1-b3c0-dd85b4be2241)
