@@ -90,6 +90,22 @@ For example:
 - **Brooklyn and Queens** are significant for commuters traveling to work.
 - **The Bronx and Staten Island** have lower ride volumes but may experience demand spikes during specific hours or weather conditions.
 
+### Monthly Uber Pickups by Day Type
+
+- **Working Days:**  
+  - There's a general upward trend in total pickups from January to June.  
+  - This indicates increasing demand throughout the period, possibly due to seasonal factors, increased Uber adoption, or other external influences.  
+
+- **Non-Working Days:**  
+  - The trend is similar to working days but with generally lower total pickups.  
+  - This is expected as there are fewer non-working days in a month.  
+
+## **Key Insights:**
+**Uber demand is growing over time, suggesting a positive business trend.**  
+ **While the overall trend is upward, slight variations exist between working and non-working days in certain months.**  
+ 
+
+
 ---
 
 ## 📌 Recommendations
